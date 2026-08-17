@@ -20,7 +20,7 @@ export function HeroSection({ onGetStarted }: HeroSectionProps) {
           </h1>
           
           <p className="text-lg md:text-xl text-muted max-w-2xl mb-10 leading-relaxed">
-            Give NoteCraft your question, choose the reference material and tell it how you want the solution. Get clean, exam-ready notes without the repetitive work.
+            Give NotesCroft your question, choose the reference material and tell it how you want the solution. Get clean, exam-ready notes without the repetitive work.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center gap-4">
