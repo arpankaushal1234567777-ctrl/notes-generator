@@ -56,7 +56,7 @@ export function NotesPreview() {
                   <span className="text-muted-foreground">One final PDF.</span>
                 </>
               }
-              description="Stop managing dozens of individual chat sessions. NoteCraft appends each new solution to a single, beautifully formatted master document. When you're ready to study, export the complete set as a clean PDF."
+              description="Stop managing dozens of individual chat sessions. NotesCroft appends each new solution to a single, beautifully formatted master document. When you're ready to study, export the complete set as a clean PDF."
             />
           </div>
           

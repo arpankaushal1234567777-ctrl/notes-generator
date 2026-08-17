@@ -6,7 +6,7 @@ export function ProductPreview() {
     <section className="py-24">
       <div className="container mx-auto px-4 sm:px-6">
         <SectionHeading 
-          title="The NoteCraft Interface"
+          title="The NotesCroft Interface"
           description="A preview of the simple, focused experience we are building."
           className="mb-16"
         />

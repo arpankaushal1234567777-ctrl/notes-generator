@@ -18,7 +18,7 @@ export function WorkflowSection() {
     {
       id: "03",
       title: "Specifications",
-      description: "Tell NoteCraft how you want the solution presented.",
+      description: "Tell NotesCroft how you want the solution presented.",
       icon: <Settings className="w-5 h-5 text-accent-foreground" />
     }
   ];

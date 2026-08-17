@@ -34,7 +34,7 @@ export default function Home() {
               Ready to upgrade your study workflow?
             </h2>
             <p className="text-lg text-muted mb-10">
-              Join the waitlist to be notified when NoteCraft is ready for early access.
+              Join the waitlist to be notified when NotesCroft is ready for early access.
             </p>
             <button 
               onClick={handleComingSoon}

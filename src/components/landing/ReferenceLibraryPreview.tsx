@@ -17,7 +17,7 @@ export function ReferenceLibraryPreview() {
             <SectionHeading 
               align="left"
               title="Grounded in your actual curriculum."
-              description="Books are processed once and stored in the reference library. Every solution NoteCraft generates is strictly grounded in the specific textbook you select, ensuring the methodology matches what your professor expects."
+              description="Books are processed once and stored in the reference library. Every solution NotesCroft generates is strictly grounded in the specific textbook you select, ensuring the methodology matches what your professor expects."
             />
           </div>
           
